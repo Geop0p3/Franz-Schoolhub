@@ -1,0 +1,23 @@
+{
+  "name": "schoolhub",
+  "version": "1.0.0",
+  "description": "schoolhub",
+  "main": "index.js",
+  "author": "Carlos FLores",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://students.schoolhub.com/",
+    "serviceName": "Schoolhub Students",
+    "message": "Schoolhub Students lets you easily manage your courses, exams, assignments, and more.",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
